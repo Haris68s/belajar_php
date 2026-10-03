@@ -1,7 +1,7 @@
 
 # Belajar MVC PHP
 
-A brief description of what this project does and who it's for
+Hi, I want to learn about programming and become a full-stack developer.
 
 
 ## 🚀 About Me
